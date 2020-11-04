@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(211, 219, 222);
+    text-align: justify;
+}
+
+h1 {
+    color:black
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: rgb(123, 145, 156);
+    color: rgb(62, 81, 87);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: rgb(152, 171, 178);
+    color: rgb(81, 107, 122);
+    font-size: 130%;
+    font-style: italic;
+    
+}
+
+article {
+    background-color: hsl(200, 15%, 75%);
+}
+p{
+    font-size: 110%;
+
+}
+
+pr {
+    color: rgb(26, 110, 154);
+    font-weight: bold;
+}
+
+pr2 {
+    color: rgb(1, 136, 204);
+    font-style: normal;
+    font-weight: bold;
+}
+
+footer{
+    text-align: right;
+    font-weight: bolder;
+    background-color: white;
+}
